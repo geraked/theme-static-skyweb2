@@ -1,0 +1,75 @@
+.jumbotron {
+	background-color: #1976D2;
+}
+#first-section .form-inline .btn-default {
+    background-color: #1976D2;
+    border-bottom-color: #0D47A1;
+}
+#second-section .well h4 {
+    border-bottom-color: #1976D2;   
+}
+#second-section .well h4 .fa {
+    background-color: #1976D2;
+}
+#time ul {
+    background-color: #1976D2;
+}
+#time ul li {
+    color: #1976D2;
+}
+#third-section .btn-default {
+    background-color: #1976D2;
+    border-bottom-color: #0D47A1;
+}
+#third-section .well ul li:last-child {
+    background-color: #1976D2;
+}
+#fourth-section .well {
+    border-top-color: #1976D2;
+}
+#fourth-section .well h4 {
+    background-color: #1976D2;
+}
+#footer {
+    background-color: #1976D2;
+    border-top-color: #1565C0;
+}
+
+
+
+.jumbotron .col-md-3 ul li a {
+    background-color: #1565C0;    
+}
+.box-title-right {
+    background-color: #1565C0;
+}
+#top-footer h4 {
+	border-bottom-color: #1565C0;
+}
+#top-footer .second li a{
+    background-color: #1565C0;
+}
+#top-footer .col-md-4:last-child a {
+	color:#1565C0;
+}
+
+
+
+.jumbotron .col-md-3 ul li a:hover {
+    background-color: #0D47A1;
+}
+#first-section .form-inline .btn-default:hover {
+    background-color: #0D47A1;
+}
+#third-section .btn-default:hover {
+    background-color: #0D47A1;
+}
+#top-footer h4:before {
+    background-color: #0D47A1;
+}
+#top-footer .first li a:hover {
+    background-color: #0D47A1;
+}
+#top-footer .second li a:hover {
+    background-color: #0D47A1;
+}

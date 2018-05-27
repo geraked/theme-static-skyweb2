@@ -1,0 +1,92 @@
+/* jssor slider bullet navigator skin 21 css */
+/*
+.jssorb21 div           (normal)
+.jssorb21 div:hover     (normal mouseover)
+.jssorb21 .av           (active)
+.jssorb21 .av:hover     (active mouseover)
+.jssorb21 .dn           (mousedown)
+*/
+.jssorb21 div, .jssorb21 div:hover, .jssorb21 .av
+{
+	background: url(../images/slider/b17.png) no-repeat;
+	overflow:hidden;
+	cursor: pointer;
+}
+.jssorb21 div { background-position: -5px -5px; }
+.jssorb21 div:hover, .jssorb21 .av:hover { background-position: -35px -5px; }
+.jssorb21 .av { background-position: -65px -5px; }
+.jssorb21 .dn, .jssorb21 .dn:hover { background-position: -95px -5px; }
+
+
+
+/* jssor slider arrow navigator skin 21 css */
+/*
+.jssora21l              (normal)
+.jssora21r              (normal)
+.jssora21l:hover        (normal mouseover)
+.jssora21r:hover        (normal mouseover)
+.jssora21ldn            (mousedown)
+.jssora21rdn            (mousedown)
+*/
+.jssora21l, .jssora21r, .jssora21ldn, .jssora21rdn
+{
+	position: absolute;
+	cursor: pointer;
+	display: block;
+	background: url(../images/slider/a11.png) center center no-repeat;
+	overflow: hidden;
+}
+.jssora21l { background-position: -3px -33px; }
+.jssora21r { background-position: -63px -33px; }
+.jssora21l:hover { background-position: -123px -33px; }
+.jssora21r:hover { background-position: -183px -33px; }
+.jssora21ldn { background-position: -243px -33px; }
+.jssora21rdn { background-position: -303px -33px; }
+
+
+#slider1_container {
+	background: url(../images/slider-bg.jpg);
+	color: white;
+	/*text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);*/
+}
+
+#slide1 {
+	position: absolute;
+	left: 150px;
+	top: 35px;
+}
+#slide234 {
+	position: absolute;
+	right: 300px;
+	top: 170px;	
+}
+#slide-text1 {
+	position: absolute;
+	right: 150px;
+	top: 35px;
+	color: #000000;
+}
+#slide5{
+	position: absolute;
+	right: 150px;
+	top: 50px;		
+}
+#slide-text2 {
+	position: absolute;
+	right: 500px;
+	top: 30px;	
+}
+#slide678 {
+	position: absolute;
+	left: 200px;
+	top: 120px;		
+}
+#slide6,#slide7,#slide8 {
+	float: right;
+}
+#slide8,#slide7 {
+	padding-right: 30px; 
+}
+#slide6,#slide7,#slide8 {
+	text-align: center;
+}

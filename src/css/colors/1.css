@@ -1,0 +1,75 @@
+.jumbotron {
+	background-color: #4c6f87;
+}
+#first-section .form-inline .btn-default {
+    background-color: #4c6f87;
+    border-bottom-color: #344b5b;
+}
+#second-section .well h4 {
+    border-bottom-color: #4c6f87;   
+}
+#second-section .well h4 .fa {
+    background-color: #4c6f87;
+}
+#time ul {
+    background-color: #4c6f87;
+}
+#time ul li {
+    color: #4c6f87;
+}
+#third-section .btn-default {
+    background-color: #4c6f87;
+    border-bottom-color: #344b5b;
+}
+#third-section .well ul li:last-child {
+    background-color: #4c6f87;
+}
+#fourth-section .well {
+    border-top-color: #4c6f87;
+}
+#fourth-section .well h4 {
+    background-color: #4c6f87;
+}
+#footer {
+    background-color: #4c6f87;
+    border-top-color: #3f5c70;
+}
+
+
+
+.jumbotron .col-md-3 ul li a {
+    background-color: #3f5c70;    
+}
+.box-title-right {
+    background-color: #3f5c70;
+}
+#top-footer h4 {
+	border-bottom-color: #3f5c70;
+}
+#top-footer .second li a{
+    background-color: #3f5c70;
+}
+#top-footer .col-md-4:last-child a {
+	color:#3f5c70;
+}
+
+
+
+.jumbotron .col-md-3 ul li a:hover {
+    background-color: #344b5b;
+}
+#first-section .form-inline .btn-default:hover {
+    background-color: #344b5b;
+}
+#third-section .btn-default:hover {
+    background-color: #344b5b;
+}
+#top-footer h4:before {
+    background-color: #344b5b;
+}
+#top-footer .first li a:hover {
+    background-color: #344b5b;
+}
+#top-footer .second li a:hover {
+    background-color: #344b5b;
+}
